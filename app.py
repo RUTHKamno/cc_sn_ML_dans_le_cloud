@@ -78,7 +78,6 @@ html, body, [class*="css"] {
 .hero-desc {
     font-size: 1.15rem;
     color: #8aa0b8;
-    max-width: 700px;
     margin: 0 auto 0.5rem;
     line-height: 1.7;
     text-align: center;

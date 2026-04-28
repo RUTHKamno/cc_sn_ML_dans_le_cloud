@@ -81,6 +81,7 @@ html, body, [class*="css"] {
     max-width: 700px;
     margin: 0 auto 0.5rem;
     line-height: 1.7;
+    text-align: center;
 }
 .hero-divider {
     width: 180px;

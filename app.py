@@ -370,7 +370,7 @@ div[data-testid="stDecoration"] { display: none; }
 st.markdown("""
 <div class="hero">
     <div class="hero-label">Machine Learning in the Cloud</div>
-    <div class="hero-title">Devoir de CC &amp; SN</div>
+    <div class="hero-title">Devoir de CC</div>
     <div class="hero-subtitle">Intelligence Artificielle · Prédiction · Monitoring</div>
     <p class="hero-desc">
         Une solution complète combinant vision par ordinateur, traitement du langage naturel,
@@ -400,7 +400,7 @@ with col2:
     st.markdown("""
     <div class="info-card">
         <h4>Type d'évaluation</h4>
-        <p class="value-big">Contrôle Continu (CC) &amp; Session Normale (SN)</p>
+        <p class="value-big">Contrôle Continu (CC)</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -593,7 +593,7 @@ with lc2:
 st.markdown("""
 <div class="footer">
     <div class="footer-text">
-        ◆ &nbsp; Machine Learning in the Cloud · CC &amp; SN &nbsp; ◆ &nbsp;
+        ◆ &nbsp; Machine Learning in the Cloud · CC; ◆ &nbsp;
         Supervisé par Mr Dalil Abdouraman (ING DATA – Specialist IA) &nbsp; ◆ &nbsp;
         MBOG · RASSEM · RUTH · EFEMBA &nbsp; ◆
     </div>
